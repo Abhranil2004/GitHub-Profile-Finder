@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/github-profile-finder.git
+    git clone https://github.com/Abhranil2004/GitHub-Profile-Finder.git
     ```
 2. **Navigate to the project directory:**
     ```bash
